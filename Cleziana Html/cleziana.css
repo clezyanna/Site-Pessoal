@@ -1,0 +1,102 @@
+body {
+	color: #333333;
+	font-family: "Damiana","Francisco", san-serif;
+	margin-left: auto;
+	margin-right: auto;
+	width: 940px;
+}
+
+h1{
+	padding: 10px;
+}
+
+
+h2{
+	margin-top: 30px;
+	border-bottom: 2px solid #333333;
+}
+p{
+	padding: 0 45px;
+	text-indent: 15px;
+}
+
+figure {
+	padding: 15px;
+	margin: 30px;
+	background-color: #F2EDED;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+.menu-opcoes ul li{
+	display: inline;
+	margin-left: 20px;
+}
+.container{
+	margin: 0 auto;
+	width: 940;
+}
+#Segurança{
+	float: right;
+	margin: 0 0 10px 10px;
+}
+
+header {
+	position: relative;
+}
+.busca,
+.Digite-sua-busca{
+	background-color: #ffe6e6;
+	font-weight: bold; 
+
+}
+.busca h2,
+.busca from,
+.Digite-sua-busca h2{
+	margin: 10px;
+}
+
+.Digite-sua-busca li{
+	background-color: white;
+	margin-bottom: 1px;
+	padding: 5px 10px;
+
+}
+.Digite-sua-busca a{
+	color: #333333;
+	text-decoration: nome;
+}
+.busca input[type=search]{
+	width: 170px;
+}
+
+.busca,
+.Digite-sua-busca {
+float: left;
+}
+
+.Digite-sua-busca {
+clear: left;
+}
+
+.destaque{
+	margin-top: 10px;
+}
+.busca{
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+
+.menu-opcoes {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+figcaption {
+	margin-top: 10px;
+	font-style: italic;
+}
+
+
